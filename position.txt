@@ -1,0 +1,9 @@
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"00:00:00:00:00","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"11:11:11:11:11","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:22:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:22:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:22:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:32:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:32:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+{"datetime":"2017-12-08T01:05:34.361Z","addr":"22:32:22:22:22","AreaX":200,"AreaY":200,"positionX":1.0798,"positionY":1.8765,"positionZ":1.5344}
+
